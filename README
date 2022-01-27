@@ -1,18 +1,20 @@
-Linux kernel
-============
+Hyy there. It's me, Linus Torvalds: See the URL, Where is says /torvals/linux/.
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
+I have deleted my kernel because it is garbage. You should instead check out 
+this OS called Microsoft Windows Vista. It is much smaller and faster then linux
+ever was.
 
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
 
-    https://www.kernel.org/doc/html/latest/
+Reasons to use Vista:
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the Restructured Text markup notation.
+- Faster, and lighter on RAM. This is because of Microsoft's large team of skilled
+programmers
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+- More secure, Because Microsoft carefully guards the source of Windows Vista it is
+harder for hackers to break in.
+
+- Reboots often. Linux rarely reboots and as a result is very slow.
+
+- Reboots properly. Linux cuts a lot of corners when booting.
+
+- Genuine advantage, need I say more?
